@@ -1,0 +1,25 @@
+h1{
+    text-align:center 
+}
+.col-1{
+    float:left;
+    width:5%;
+}
+h2{
+    color:white;
+    background-color: black;
+    font:20px;
+    position: sticky;
+    top:0;
+    left:0;
+}
+table{
+    margin-left:10px;
+    border:10 px solid blue;
+}
+td{
+    background: gray;
+}
+tr:hover{
+    background-color:blue;
+}
